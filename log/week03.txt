@@ -7,9 +7,9 @@ w03-170302-10-PS-Do the week 3 task
 w03-170302-10-PS-Do the week 3 task
 w03-170302-11-PS-Do the week 3 task
 w03-170301-19-PS-Do the week 3 task
-w03-170202-13-LR-About: , From: Lecturer (Pak Rahmat)
-w03-170202-13-LR-About: , From: Lecturer (Pak Rahmat)
-w03-170202-14-LR-About: , From: Lecturer (Pak Rahmat)
+w03-170202-13-LR-About: Boot, From: Lecturer (Pak Rahmat)
+w03-170202-13-LR-About: Boot, From: Lecturer (Pak Rahmat)
+w03-170202-14-LR-About: I/O, From: Lecturer (Pak Rahmat)
 w03-180224-18-PS-Do the week 2 task
 w03-180224-18-PS-Do the week 2 task
 w03-180224-19-PS-Do the week 2 task
