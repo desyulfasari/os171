@@ -1,6 +1,6 @@
 w07-170417-18-PS-Do the week07 task
 w07-170417-20-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-1780418-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170418-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
 w07-170418-14-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
 w07-170419-18-PS-Do the week07 task
 w07-170419-19-PS-Do the week07 task
