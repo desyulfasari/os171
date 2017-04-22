@@ -1,13 +1,13 @@
-w07-170412-18-PS-Do the week07 task
-w07-170410-20-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-180411-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-180411-14-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-190412-18-PS-Do the week07 task
-w07-190412-19-PS-Do the week07 task
-w07-190412-18-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-200413-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-200413-14-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
-w07-210414-19-PS-Do the week07 task
-w07-220415-08-PS-Do the week07 task
-w07-220415-09-PS-Do the week07 task
-w07-220415-10-PS-Do the week07 task 
+w07-170417-18-PS-Do the week07 task
+w07-170417-20-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-1780418-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170418-14-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170419-18-PS-Do the week07 task
+w07-170419-19-PS-Do the week07 task
+w07-170419-18-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170420-13-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170420-14-LR-About: Synchronization, From: Lecturer (Pak Rahmat)
+w07-170421-19-PS-Do the week07 task
+w07-170422-08-PS-Do the week07 task
+w07-170422-09-PS-Do the week07 task
+w07-170422-10-PS-Do the week07 task 
