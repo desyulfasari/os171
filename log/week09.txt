@@ -11,3 +11,4 @@ w09-170505-19-LR-About: BIOS, From: Slide
 w09-170506-08-LR-About: BIOS, From: Slide
 w09-170506-09-LR-About: CPU scheduling, From: Slide
 w09-170506-10-LR-About: CPU scheduling, From: Slide
+w09-170507-10-LR-About: Visualization, From: Slide
