@@ -1,0 +1,13 @@
+w09-170501-18-PS-Do the week09 and week10 task
+w09-170501-20-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170502-13-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170502-14-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170503-18-PS-Do the week09 and week10 task
+w09-170503-19-PS-Do the week09 and week10 task
+w09-170503-18-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170504-13-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170504-14-LR-About: Cloud, From: Lecturer (Pak Rahmat)
+w09-170505-19-LR-About: BIOS, From: Slide
+w09-170506-08-LR-About: BIOS, From: Slide
+w09-170506-09-LR-About: CPU scheduling, From: Slide
+w09-170506-10-LR-About: CPU scheduling, From: Slide
